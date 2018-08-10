@@ -1,2 +1,2 @@
 # python
-Pruebas sobre lenguaje Python
+Pruebas
